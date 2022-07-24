@@ -24,3 +24,9 @@ using IJulia
 notebook(dir=pwd())
 ```
 5. In the Jupyter Notebook open the *juliacon2022.ipynb* file and follow the tutorial.
+
+---
+
+*Preparation of this workshop has been supported by the Polish National Agency for Academic Exchange under the Strategic Partnerships programme, grant number BPI/PST/2021/1/00069/U/00001.*
+
+![SGH & NAWA](logo.png)
