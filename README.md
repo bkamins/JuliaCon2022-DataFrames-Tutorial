@@ -5,7 +5,7 @@ operation specification syntax
 prepared for [JuliaCon2022](https://juliacon.org/2022/).
 
 In order to run the tutorial make sure that you have Julia executable installed.
-The tutorial was developed under Julia 1.7.
+The tutorial was updated to Julia 1.8.2 and DataFrames.jl 1.4.0.
 
 The simplest way to run it is to proceed as follows:
 1. Clone the
