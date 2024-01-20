@@ -1,5 +1,7 @@
 # A Complete Guide to Efficient Transformations of data frames
 
+[![JuliaCon2022 Talk](https://img.youtube.com/vi/SXF4BawX-hs/0.jpg)](https://www.youtube.com/watch?v=SXF4BawX-hs)
+
 This is a tutorial on [DataFrames.jl](https://github.com/JuliaData/DataFrames.jl)
 operation specification syntax
 prepared for [JuliaCon2022](https://juliacon.org/2022/).
